@@ -10,3 +10,6 @@ I want to specialize in UI/UX design and combine that with front-end skills. We 
 
 ## Connect With Me
 🔶[Twitter](https://twitter.com/earslanyunus) 🔶    [Mail](yyunus.earslan@gmail.com)🔶
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earslanyunus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
